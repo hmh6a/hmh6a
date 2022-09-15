@@ -6,4 +6,3 @@
 ![hmh6a Streak](https://github-readme-streak-stats.herokuapp.com/?user=hmh6a&theme=tokyonight)
 ![hmh6a Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmh6a&theme=tokyonight&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmh6a&hide=javascript,css,scss,html&theme=tokyonight)
