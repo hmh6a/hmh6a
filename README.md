@@ -4,4 +4,4 @@
  
 ![hmh6a stats](https://github-readme-stats.vercel.app/api?username=hmh6a&show_icons=true&theme=tokyonight) 
 ![hmh6a Streak](https://github-readme-streak-stats.herokuapp.com/?user=hmh6a&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmh6a&exclude_repo=readings-nuxt,hmh6.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmh6a&exclude_repo=readings-nuxt,hmh6a.github.io)](https://github.com//github-readme-stats)
