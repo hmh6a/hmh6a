@@ -10,6 +10,8 @@
 </a>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=hmh6a&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&theme=radical" />
+<div align="center"> 
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+ <img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?  username=hmh6a&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&theme=radical" />
 </a>
+ </div>
